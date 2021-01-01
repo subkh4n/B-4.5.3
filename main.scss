@@ -1,0 +1,21 @@
+// font
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;500;600;700&display=swap');
+
+// variable
+$primaryColor : #F35CA3;
+$secondaryColor: #B5C7EA;
+$tertiaryColor: #C5ABDC;
+$textColor: hsl(222, 8%, 24%);
+
+// styles
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-image: url(img/Bg.png);
+  background-position: top;
+  background: no-repeat;
+  background-size: 50vmax;
+}
+
+
+
+// navigation
